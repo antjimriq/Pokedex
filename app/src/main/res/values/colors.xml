@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44335</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#FEC109</color>
+    <color name="text_black">#111111</color>
+    <color name="text_gray">#4c5957</color>
+    <color name="hp_background">#b8af5b</color>
+    <color name="attack_background">#8f8101</color>
+    <color name="defense_background">#afcdf3</color>
+    <color name="speed_background">#f3db03</color>
+</resources>
